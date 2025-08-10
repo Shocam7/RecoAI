@@ -1,0 +1,24 @@
+{
+  "name": "reco",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.5.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "isomorphic-form-data": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.3",
+    "@types/react": "18.2.21",
+    "typescript": "5.2.2",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.5.7"
+  }
+}
