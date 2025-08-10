@@ -1,0 +1,15 @@
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color: #111;
+  background: #fff;
+  line-height: 1.5;
+}
+
+button {
+  cursor: pointer;
+}
